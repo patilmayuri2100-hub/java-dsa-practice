@@ -1,10 +1,10 @@
-# Java & DSA Practice ☕💻
+# Java & DSA Practice 
 
 Welcome to my Java programming and Data Structures & Algorithms practice repository.
 
 I'm a B.Tech Computer Science and Engineering student at SAGE University Bhopal, graduating in 2029. I'm strengthening my Java fundamentals and problem-solving skills through regular coding practice.
 
-## 📚 Topics
+##  Topics
 
 - Java fundamentals
 - Variables, data types, and operators
@@ -13,14 +13,14 @@ I'm a B.Tech Computer Science and Engineering student at SAGE University Bhopal,
 - Searching and sorting
 - Data Structures & Algorithms (learning in progress)
 
-## 🎯 Goals
+## Goals
 
 - Improve problem-solving skills
 - Write clean, understandable Java code
 - Practice DSA consistently
 - Prepare for software engineering internships
 
-## 👩‍💻 About Me
+## About Me
 
 - **GitHub:** [patilmayuri2100-hub](https://github.com/patilmayuri2100-hub)
 - **LinkedIn:** [Mayuri Patil](https://www.linkedin.com/in/mayuri-patil-cse)
